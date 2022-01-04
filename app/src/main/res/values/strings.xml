@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutIntermediate_Kotlin_task1</string>
+    <string name="user_id">User Id:</string>
+    <string name="user_pw">User Pw:</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
